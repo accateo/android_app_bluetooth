@@ -1,2 +1,2 @@
-# android_app_bluetooth
+# Android Bluetooth App
 Project of Android application with bluetooth communication
