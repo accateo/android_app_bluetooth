@@ -1,2 +1,2 @@
 # Android Bluetooth App
-Project of Android application with bluetooth communication
+Source code of a project for an Android application with bluetooth communication
