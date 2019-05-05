@@ -11,6 +11,7 @@ In this simple template project, with a few number of activities:
 - sending bluetooth commands quickly and easily, as well as reading the answer 
 
 - passing of the data read between activities using handler
+  https://developer.android.com/reference/android/os/Handler
 
 
 # HOW to
