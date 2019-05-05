@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Android app Bluetooth</string>
+    <string name="action_settings">Reset factory</string>
+
+    <string name="device_not_found">Device not found</string>
+	<string name="device_name">DEVICE_NAME</string>
+
+</resources>
