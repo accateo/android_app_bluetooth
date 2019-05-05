@@ -15,7 +15,8 @@ In this simple template project, with a few number of activities:
 
 # HOW to
 
-Simply download the code from repository and import every class in your project Pay attention to:
+Simply download the code from repository and import every class in your project.
+Pay attention to:
 
 - manifest file: add every new activity
 - build gradle:  integrate your gradle project with the one downloaded
