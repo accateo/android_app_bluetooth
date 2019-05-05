@@ -6,9 +6,11 @@ In this simple template project, with a few number of activities:
 - ConstraintLayout: recent layout to build UI introduced for Android app
   https://developer.android.com/reference/android/support/constraint/ConstraintLayout
 
-- Bluetooth connection with every Bluetooth device
+- Bluetooth connection with any Bluetooth device
 
 - sending bluetooth commands quickly and easily, as well as reading the answer 
+
+- passing socket connection between different activities
 
 - passing of the data read between different activities using handler
   https://developer.android.com/reference/android/os/Handler
